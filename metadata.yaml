@@ -1,4 +1,8 @@
 _repo: Things-Worth-Doing-and-How-To-Do-Them_48978
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48978-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Beard, Lina
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45074'
     url: http://www.gutenberg.org/2009/agents/45074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48978#Things-Worth-Doing-and-How-To-Do-Them
 gutenberg_issued: '2015-05-17'
 gutenberg_type: Text
 identifiers:
